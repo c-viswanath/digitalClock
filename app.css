@@ -1,0 +1,47 @@
+body{
+    margin : 0%;
+    padding: 0%;
+    background-color: #6F58C9;
+}
+
+.containerIndia{
+    font-family: Arial, Helvetica, sans-serif;
+    color : #B6B8D6;
+    font-weight: bold;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-35% , -50%);
+    font-size: 70px;
+}
+.containerUSA{
+    font-family: Arial, Helvetica, sans-serif;
+    color : #B6B8D6;
+    font-weight: bold;
+    position: absolute;
+    top: 60%;
+    left: 65%;
+    transform: translate(-20% , -50%);
+    font-size: 70px;
+}
+
+.headingIndia{
+    font-family: Arial, Helvetica, sans-serif;
+    color : #B6B8D6;
+    font-weight: bold;
+    position: absolute;
+    top: 30%;
+    left:17%;
+    font-size: 70px;
+    
+}
+.headingUSA{
+    font-family: Arial, Helvetica, sans-serif;
+    color : #B6B8D6;
+    font-weight: bold;
+    position: absolute;
+    top: 30%;
+    left:69%;
+    font-size: 70px;
+    
+}
